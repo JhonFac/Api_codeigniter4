@@ -1,0 +1,234 @@
+CRITICAL - 2022-05-09 00:19:24 --> Class "App\Models\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-09 00:20:32 --> Class "App\Models\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-09 00:20:49 --> Class "App\Models\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('api/clientes/')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('api/clientes/')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-09 00:21:00 --> Class "App\Models\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('api/clientes/')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('api/clientes/')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-09 00:21:04 --> Class "App\Models\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('api/clientes/')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(726): CodeIgniter\Router\Router->handle('api/clientes/')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#7 {main}
+CRITICAL - 2022-05-09 00:26:09 --> Class "App\Models\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-09 00:26:51 --> Class "App\Models\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-09 00:27:00 --> Class "App\Models\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(797): class_exists('\\App\\Controller...', true)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(406): CodeIgniter\CodeIgniter->startController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#9 {main}
+CRITICAL - 2022-05-09 01:29:27 --> Class "App\Models\ClienteModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(809): App\Controllers\API\Clientes->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-09 01:32:37 --> Class "App\Models\ClienteModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-05-09 01:36:05 --> Class "App\Models\ClienteModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(809): App\Controllers\API\Clientes->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+CRITICAL - 2022-05-09 10:10:26 --> Class "App\Models\ClienteModel" not found
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(809): App\Controllers\Home->__construct()
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(410): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#5 {main}
+CRITICAL - 2022-05-09 17:18:42 --> The framework needs the following extension(s) installed and loaded: intl.
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(219): CodeIgniter\Exceptions\FrameworkException::forMissingExtension('intl')
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(177): CodeIgniter\CodeIgniter->resolvePlatformExtensions()
+#2 C:\xampp_php7\htdocs\codeigniter4\system\bootstrap.php(146): CodeIgniter\CodeIgniter->initialize()
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(28): require('C:\\xampp_php7\\h...')
+#4 {main}
+ERROR - 2022-05-09 11:01:37 --> Unknown column 'create_at' in 'field list'
+ERROR - 2022-05-09 11:02:31 --> Unknown column 'create_at' in 'field list'
+ERROR - 2022-05-09 11:02:35 --> Unknown column 'create_at' in 'field list'
+ERROR - 2022-05-09 11:03:58 --> Unknown column 'create_at' in 'field list'
+ERROR - 2022-05-09 11:04:08 --> Unknown column 'create_at' in 'field list'
+CRITICAL - 2022-05-09 11:14:37 --> Undefined constant "App\Controllers\API\this"
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->crear()
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#5 {main}
+ERROR - 2022-05-09 11:22:47 --> Unknown column 'create_at' in 'field list'
+ERROR - 2022-05-09 11:34:53 --> Unknown column 'create_at' in 'field list'
+CRITICAL - 2022-05-09 21:27:01 --> Cannot use object of type stdClass as array
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#5 {main}
+CRITICAL - 2022-05-09 21:28:02 --> Cannot use object of type stdClass as array
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#5 {main}
+CRITICAL - 2022-05-09 21:30:37 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp_php7\htdocs\codeigniter4\app\Controllers\API\Clientes.php(25): json_decode(Object(stdClass))
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#6 {main}
+CRITICAL - 2022-05-09 21:31:51 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp_php7\htdocs\codeigniter4\app\Controllers\API\Clientes.php(25): json_decode(Object(stdClass), true)
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#6 {main}
+CRITICAL - 2022-05-09 21:33:15 --> Object of class stdClass could not be converted to string
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#5 {main}
+CRITICAL - 2022-05-09 21:34:41 --> Object of class stdClass could not be converted to string
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#5 {main}
+CRITICAL - 2022-05-09 21:37:09 --> Object of class stdClass could not be converted to string
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#5 {main}
+CRITICAL - 2022-05-09 21:37:18 --> Undefined variable $jsonString
+#0 C:\xampp_php7\htdocs\codeigniter4\app\Controllers\API\Clientes.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp_php7\\h...', 28)
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#6 {main}
+CRITICAL - 2022-05-09 21:37:26 --> Undefined variable $jsonString
+#0 C:\xampp_php7\htdocs\codeigniter4\app\Controllers\API\Clientes.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp_php7\\h...', 28)
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#6 {main}
+CRITICAL - 2022-05-09 21:37:37 --> Undefined variable $assoc
+#0 C:\xampp_php7\htdocs\codeigniter4\app\Controllers\API\Clientes.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp_php7\\h...', 28)
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#6 {main}
+CRITICAL - 2022-05-09 21:40:01 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp_php7\htdocs\codeigniter4\app\Controllers\API\Clientes.php(28): json_decode(Object(stdClass), true)
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#6 {main}
+CRITICAL - 2022-05-09 21:41:39 --> json_decode(): Argument #1 ($json) must be of type string, stdClass given
+#0 C:\xampp_php7\htdocs\codeigniter4\app\Controllers\API\Clientes.php(28): json_decode(Object(stdClass), true)
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#3 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#6 {main}
+CRITICAL - 2022-05-09 22:03:43 --> Undefined constant "App\Controllers\API\this"
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->modify()
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#5 {main}
+CRITICAL - 2022-05-09 23:09:04 --> Attempt to assign property "status" on array
+#0 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(832): App\Controllers\API\Clientes->deleteuser('102')
+#1 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(419): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\API\Clientes))
+#2 C:\xampp_php7\htdocs\codeigniter4\system\CodeIgniter.php(326): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp_php7\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 C:\xampp_php7\htdocs\codeigniter4\system\Commands\Server\rewrite.php(43): require_once('C:\\xampp_php7\\h...')
+#5 {main}
